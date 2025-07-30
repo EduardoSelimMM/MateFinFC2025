@@ -50,7 +50,6 @@ El curso será evaluado de la siguiente manera:
 + Tema 2. Viernes 11 de Octubre de 2025.
 + Tema 3. Jueves 31 de Octubre de 2025.
 + Tema 4. Viernes 22 de Noviembre de 2025.
-\end{itemize}
 
 ## Examen final y Reposiciones
 
