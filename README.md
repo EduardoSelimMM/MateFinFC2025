@@ -58,11 +58,11 @@ El curso será evaluado de la siguiente manera:
 <img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Exámenes Parciales
-+ Tema 1. Viernes 6 de Septiembre de 2025.
-+ Tema 2. Viernes 11 de Octubre de 2025.
-+ Tema 3. Jueves 31 de Octubre de 2025.
-+ Tema 4. Viernes 22 de Noviembre de 2025.
++ Tema 1. Viernes 5 de septiembre de 2025.
++ Tema 2. Viernes 17 de octubre de 2025.
++ Tema 3. Jueves 7 de noviembre de 2025.
++ Tema 4. Viernes 28 de Noviembre de 2025.
 
 ## Examen final y Reposiciones
 
-Fecha indicada por la División de Estudios Profesionales para el segundo periodo de exámenes finales (entre el 25 de Noviembre y 6 de Diciembre de 2025).
+Fecha indicada por la División de Estudios Profesionales para el segundo periodo de exámenes finales (entre el 29 de Noviembre y 11 de Diciembre de 2025).
