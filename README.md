@@ -43,8 +43,8 @@ El curso será evaluado de la siguiente manera:
 
 # ACLARACIONES
 
++ Las sesiones requieren asistencia plena, no sólo física.
 + Bajo ningún motivo se aceptarán tareas después de la fecha fijada de entrega.
-+ Es requisito aprobar todos los exámenes parciales para acreditar el curso.
 + No se realizarán exámenes extemporáneos por ningún motivo.
 + No se permiten teléfonos móviles encendidos y en consecuencia, queda prohibido salir del salón para contestar llamadas. En caso de hacerlo se retirará lo que resta de dicha sesión.
 + No se permite la entrada después de la hora más 10 minutos
