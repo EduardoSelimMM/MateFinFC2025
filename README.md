@@ -54,6 +54,9 @@ El curso será evaluado de la siguiente manera:
 + Limpieza y letra legible. Preferentemente en LaTeX o RMarkdown
 
 # CALENDARIO
+
+<img src="imagenes/calendario_unam.png" align="right" height="250" width="250" hspace="10">
+
 ## Exámenes Parciales
 + Tema 1. Viernes 6 de Septiembre de 2025.
 + Tema 2. Viernes 11 de Octubre de 2025.
