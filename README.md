@@ -22,7 +22,7 @@ Como parte de la aplicación de abstracciones asociadas a flujos de efectivo, el
 
 La mayoría de los conceptos estudiados también se implementarán en en lenguaje de programación R (posit.co) como calculadora, graficador, optimizador y solver.
 
-## 🤓 Dinámica de las sesiones 🤓:
+## 🤓 Dinámica de las sesiones 🤓
 Las sesiones teóricas y prácticas se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana presencialmente (según las indicaciones de la Universidad). Toda comunicación e intercambio de archivos se llevará a cabo a través de Google Classroom (allí se distribuirán tareas, mensajes, notas de clase, etc). También se dejarán algunas lecturas y videos para reforzar lo visto durante la clase.\\
 
 ### Requisitos sugeridos:
