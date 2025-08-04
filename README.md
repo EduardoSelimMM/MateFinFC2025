@@ -1,6 +1,13 @@
 # Matemáticas Financieras 2026-1: Facultad de Ciencias, UNAM
 ## 11 de Agosto al 13 de Diciembre de 2025
 
+<img src="imagenes/image.gif" align="right" height="250" width="250" hspace="10">
+
+## Horario
+
++ Profesor: Martes, jueves y viernes de 8:00 a 9:00 hrs.
++ Ayudantías: Lunes y miércoles 8:00 a 9:00 hrs.
+
 # Presentación 🚀
 
 **Profesor:** Eduardo Selim Martínez Mayorga (eduardo.selim@ciencias.unam.mx)
