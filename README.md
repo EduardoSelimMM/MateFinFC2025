@@ -1,11 +1,11 @@
 # Matemáticas Financieras 2026-1: Facultad de Ciencias, UNAM
-## 11 de agosto al 11 de diciembre de 2025
+## 11 de agosto al 11 de diciembre de 2026
 
 <img src="imagenes/imagen.gif" align="right" height="250" width="250" hspace="10">
 
 **Profesor:** Eduardo Selim Martínez Mayorga (eduardo.selim@ciencias.unam.mx)
 
-**Ayudante:** Eduardo Enrique Alanis Avila (eduardo.alanis@ciencias.unam.mx)
+**Adjunto:** Eduardo Enrique Alanis Avila (eduardo.alanis@ciencias.unam.mx)
 
 ## Horario
 
