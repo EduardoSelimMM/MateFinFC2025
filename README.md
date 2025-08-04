@@ -12,7 +12,7 @@
 + Profesor: Martes, jueves y viernes de 8:00 a 9:00 hrs.
 + Ayudantías: Lunes y miércoles 8:00 a 9:00 hrs.
 
-# Presentación 🚀
+# 🚀 Presentación 🚀
 
 Esta es la primera asignatura del *core* actuarial (que se continuará en los cursos del área de finanzas y matemáticas actuariales), incluye el estudio de los conceptos de interés, tasa de interés (nominal, efectiva, real, fuerza de interés), valor presente y descuento, así como las relaciones existentes entre estos conceptos.
 
@@ -22,7 +22,7 @@ Como parte de la aplicación de abstracciones asociadas a flujos de efectivo, el
 
 La mayoría de los conceptos estudiados también se implementarán en en lenguaje de programación R (posit.co) como calculadora, graficador, optimizador y solver.
 
-## Dinámica de las sesiones 🤓:
+## 🤓 Dinámica de las sesiones 🤓:
 Las sesiones teóricas y prácticas se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana presencialmente (según las indicaciones de la Universidad). Toda comunicación e intercambio de archivos se llevará a cabo a través de Google Classroom (allí se distribuirán tareas, mensajes, notas de clase, etc). También se dejarán algunas lecturas y videos para reforzar lo visto durante la clase.\\
 
 ### Requisitos sugeridos:
@@ -30,7 +30,7 @@ Cálculo Diferencial e Integral II y Álgebra Superior II.
 
 # T E M A R I O
 
-# EVALUACIÓN 🎖
+# 🎖 EVALUACIÓN 🎖
 El curso será evaluado de la siguiente manera:
 
 + Tareas de casa grupales: En equipos de a los más 4 integrantes y cuyo valor será el 30\% de la calificación final. 8 tareas aproximadamente.
