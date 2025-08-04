@@ -1,5 +1,5 @@
 # Matemáticas Financieras 2026-1: Facultad de Ciencias, UNAM
-## 11 de Agosto al 13 de Diciembre de 2025
+## 11 de agosto al 11 de diciembre de 2025
 
 <img src="imagenes/imagen.gif" align="right" height="250" width="250" hspace="10">
 
