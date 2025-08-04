@@ -1,7 +1,11 @@
 # Matemáticas Financieras 2026-1: Facultad de Ciencias, UNAM
 ## 11 de Agosto al 13 de Diciembre de 2025
 
-<img src="imagenes/image.gif" align="right" height="250" width="250" hspace="10">
+<img src="imagenes/imagen.gif" align="right" height="250" width="250" hspace="10">
+
+**Profesor:** Eduardo Selim Martínez Mayorga (eduardo.selim@ciencias.unam.mx)
+
+**Ayudante:** Eduardo Enrique Alanis Avila (eduardo.alanis@ciencias.unam.mx)
 
 ## Horario
 
@@ -9,10 +13,6 @@
 + Ayudantías: Lunes y miércoles 8:00 a 9:00 hrs.
 
 # Presentación 🚀
-
-**Profesor:** Eduardo Selim Martínez Mayorga (eduardo.selim@ciencias.unam.mx)
-
-**Ayudantes:** (@ciencias.unam.mx)
 
 Esta es la primera asignatura del *core* actuarial (que se continuará en los cursos del área de finanzas y matemáticas actuariales), incluye el estudio de los conceptos de interés, tasa de interés (nominal, efectiva, real, fuerza de interés), valor presente y descuento, así como las relaciones existentes entre estos conceptos.
 
