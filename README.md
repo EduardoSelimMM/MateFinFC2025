@@ -55,7 +55,7 @@ El curso será evaluado de la siguiente manera:
 
 # CALENDARIO
 
-<img src="imagenes/calendario_unam.png" align="right" height="250" width="150" hspace="10">
+<img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Exámenes Parciales
 + Tema 1. Viernes 6 de Septiembre de 2025.
